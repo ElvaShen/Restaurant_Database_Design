@@ -30,6 +30,8 @@ Following are our database design process:
 <img width="656" alt="daily revenue" src="https://user-images.githubusercontent.com/41976548/43548823-c6b8294e-9593-11e8-91e3-96e2464dfe87.png">
 
 * Calculate daily cost using histograms
+<img width="772" alt="daily cost" src="https://user-images.githubusercontent.com/41976548/43548869-e81195f8-9593-11e8-974a-39dcf22059bf.png">
+
 * Calculate total sales per item
     
 ## Future Potentials
