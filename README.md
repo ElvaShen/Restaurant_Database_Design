@@ -5,6 +5,9 @@ Restaurant needs to manage table reservations, orders, menus, inventory,revenue 
 Swimlane Diagram
 <img width="890" alt="swimlane diagram" src="https://user-images.githubusercontent.com/41976548/43547052-0082091a-958f-11e8-8569-84b6fdc8d2d5.png">
 
+ER Diagram
+<img width="847" alt="er diagram" src="https://user-images.githubusercontent.com/41976548/43547193-662e78c0-958f-11e8-9d03-673ebe27163c.png">
+
 ## Database Design
 Following are our database design process:
 
