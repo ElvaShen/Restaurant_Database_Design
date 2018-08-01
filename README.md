@@ -2,6 +2,8 @@
 ## Summary
 Restaurant needs to manage table reservations, orders, menus, inventory,revenue and customer reviews. Our application will store data about customer reservations, orders, transactions, customer ratings, employee information, inventory and supplier information. Our application will be used daily to record transactions, revenue, keep track of employees, and allow the restaurant to coordinate suppliers to fill the necessary inventory to keep the restaurant running.
 
+Swimlane Diagram
+<img width="890" alt="swimlane diagram" src="https://user-images.githubusercontent.com/41976548/43547052-0082091a-958f-11e8-8569-84b6fdc8d2d5.png">
 
 ## Database Design
 Following are our database design process:
