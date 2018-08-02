@@ -28,9 +28,9 @@ Following are our database design process:
 ## Business Metrics
 * Calculate daily revenue using histograms
 <img width="656" alt="daily revenue" src="https://user-images.githubusercontent.com/41976548/43548823-c6b8294e-9593-11e8-91e3-96e2464dfe87.png">
-* Calculate daily cost using histograms
+..* Calculate daily cost using histograms
 <img width="772" alt="daily cost" src="https://user-images.githubusercontent.com/41976548/43548869-e81195f8-9593-11e8-974a-39dcf22059bf.png">
-* Calculate total sales per item
+..* Calculate total sales per item
 <img width="683" alt="total sales per item" src="https://user-images.githubusercontent.com/41976548/43548897-fbfc2efc-9593-11e8-8e61-c5884f0a96be.png">
     
 ## Conclusion
