@@ -34,5 +34,5 @@ Following are our database design process:
 <img width="683" alt="total sales per item" src="https://user-images.githubusercontent.com/41976548/43548897-fbfc2efc-9593-11e8-8e61-c5884f0a96be.png">
     
 ## Future Potentials
-We believe this succint yet efficient database model that we structured for Zillow.com will solve their current problems of high latency of the web searching and loading speed due to large database, which will lead to bad user experience. Furthermore, a high-integrity database model will be helpful for them to track, collect and analyze data along the time. This will optimize students' online housing searching experience, specifically for university apartment rental market. 
+This database model we structured covers the daily internal operation of most restaurants. It helps them to organize personnels to better serve customers in order to receive a satisfactory customer review; It also helps restaurant managers to coordinate with suppliers to keep track of the inventory cost in order to generate more profits.
 
